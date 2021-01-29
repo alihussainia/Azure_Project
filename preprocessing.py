@@ -1,5 +1,5 @@
-import pandas 
-import numpy
+import pandas as pd
+import numpy as np
 
 def clean_data(data):
     # Dict for cleaning data
